@@ -21,7 +21,7 @@ RoxygenNote: 7.3.2
 Suggests: rmarkdown, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-10-27 17:48:09 UTC; luna
+Packaged: 2025-10-27 18:43:11 UTC; luna
 Author: Eliot Miller [aut, cre],
   Emily Jane McTavish [aut],
   Luna L. Sanchez Reyes [ctb, aut]
